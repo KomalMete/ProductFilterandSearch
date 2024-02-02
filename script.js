@@ -5,14 +5,14 @@ let products ={
             productName : "Regular White T-Shirt",
             category : "Topwear",
             price : "30",
-            image : "Images/white_Tshirt_girl1",
+            image : "women-s-white-t-shirt-243240-1655748084-1.WEBP",
         },
 
         {
             productName : "Beige Short Skirt",
             category : "Bottomwear",
             price : "49",
-            image : "Images/Short_Skirt",
+            image : "Short_Skirt.jpg",
         },
 
         
@@ -20,7 +20,7 @@ let products ={
             productName : "Sporty SmartWatch",
             category : "Watch",
             price : "99",
-            image : "Images/Sporty_SmartWatch",
+            image : "Sporty_SmartWatch.WEBP",
         },
 
         
@@ -28,35 +28,35 @@ let products ={
             productName : "Basic Knitted Top",
             category : "Topwear",
             price : "29",
-            image : "Images/Basic_Knitted_Top",
+            image : "Basic_Knitted_Top.jpg",
         },
 
         {
             productName : "Black Leather Jacket",
             category : "Jacket",
             price : "129",
-            image : "Images/Black_Leather_Jacket",
+            image : "Black_Leather_Jacket.jpg",
         },
 
         {
             productName : "Stylish Pink Trousers",
             category : "Bottomwear",
             price : "89",
-            image : "Images/Stylish_Pink_Trousers",
+            image : "Stylish_Pink_Trousers.WEBP",
         },
 
         {
             productName : "Brown Mens Jacket",
             category : "Jacket",
             price : "189",
-            image : "Images/Brown_Mens_Jacket",
+            image : "Brown_Mens_Jacket.jpg",
         },
 
         {
             productName : "Comfy Gray Pants",
             category : "Bottomwear",
             price : "49",
-            image : "Images/Comfy_Gray_Pants",
+            image : "Comfy_Gray_Pants.jpg",
         },
     ],
 };
