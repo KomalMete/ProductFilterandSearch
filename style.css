@@ -54,3 +54,46 @@ body{
     cursor: pointer;
     background-color: grey;
 }
+
+#products {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 1.5em;
+    padding: 2em 0;
+}
+
+img{
+    max-width: 100%;
+    object-fit: contain;
+    height: 15em;
+}
+
+.card{
+    background-color: #ffffff;
+    max-width: 18em;
+    margin-top: 1em;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 1em 2em 2.5em rgba(1, 2, 68, 0.08);
+}
+
+.image-container{
+    text-align: center;
+}
+
+.container{
+    padding-top: 1em;
+    color: #110f29;
+}
+
+.container h5{
+    font-weight: 500;
+}
+
+@media screen and (max-width: 720px) {
+    img{
+        max-width: 100%;
+        object-fit: contain;
+        height: 10em;
+    }
+}
